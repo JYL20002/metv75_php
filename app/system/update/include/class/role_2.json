@@ -1,0 +1,647 @@
+[
+    {
+        "aid": "1",
+        "type": "l",
+        "access": "1"
+    },
+    {
+        "aid": "2",
+        "type": "l",
+        "access": "1"
+    },
+    {
+        "aid": "8888",
+        "type": "f",
+        "access": "1"
+    },
+    {
+        "aid": "1301",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "1802",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "1803",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "1804",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "126",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "132",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "133",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "134",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "77",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "127",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "136",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "137",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "139",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "128",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "140",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "141",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "142",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "129",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "130",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "131",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "76",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "73",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "74",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "2",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "1",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "143",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "144",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "145",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "146",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "163",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "148",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "149",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "150",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "151",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "152",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "153",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "154",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "155",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "156",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "157",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "158",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "159",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "160",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "161",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "162",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "164",
+        "type": "c",
+        "access": "1"
+    },
+    {
+        "aid": "1201",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "9999",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "9888",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "9777",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "1202",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "1509",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "1510",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "1511",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "1106",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "1404",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "1405",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "1505",
+        "type": "s",
+        "access": "0"
+    },
+    {
+        "aid": "1800",
+        "type": "s",
+        "access": "0"
+    },
+    {
+        "aid": "1801",
+        "type": "s",
+        "access": "0"
+    },
+    {
+        "aid": "10070",
+        "type": "a",
+        "access": "0"
+    },
+    {
+        "aid": "50002",
+        "type": "a",
+        "access": "0"
+    },
+    {
+        "aid": "1506",
+        "type": "s",
+        "access": "0"
+    },
+    {
+        "aid": "1601",
+        "type": "s",
+        "access": "0"
+    },
+    {
+        "aid": "1603",
+        "type": "s",
+        "access": "0"
+    },
+    {
+        "aid": "1200",
+        "type": "s",
+        "access": "0"
+    },
+    {
+        "aid": "1004",
+        "type": "s",
+        "access": "0"
+    },
+    {
+        "aid": "1005",
+        "type": "s",
+        "access": "0"
+    },
+    {
+        "aid": "1002",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "0",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "1007",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "1003",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "1604",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "1605",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "1508",
+        "type": "s",
+        "access": "1"
+    },
+    {
+        "aid": "1",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "2",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "3",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "21",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "22",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "23",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "24",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "4",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "5",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "6",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "7",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "26",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "27",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "8",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "28",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "37",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "29",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "9",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "10",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "30",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "31",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "32",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "33",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "11",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "38",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "34",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "39",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "40",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "41",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "42",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "64",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "52",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "53",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "54",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "44",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "45",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "46",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "47",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "48",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "49",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "51",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "55",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "56",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "57",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "58",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "59",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "60",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "61",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "62",
+        "type": "m",
+        "access": "1"
+    },
+    {
+        "aid": "63",
+        "type": "m",
+        "access": "0"
+    },
+    {
+        "aid": "50",
+        "type": "m",
+        "access": "0"
+    }
+]

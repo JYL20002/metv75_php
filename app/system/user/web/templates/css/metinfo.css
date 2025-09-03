@@ -1,0 +1,85 @@
+@charset "UTF-8";
+/* 米拓企业建站系统 Copyright (C) 长沙米拓信息技术有限公司 (https://www.metinfo.cn). All rights reserved. */
+/* 全局样式 */
+.met-member .met-form{max-width:450px;}
+.met-member input.form-control,
+.met-member select.form-control{height:43px !important;}
+.met-member .input-group .input-group-addon{ border-radius:0px;}
+.met-member .form-control{border-radius:0px;border-color: #ddd;}
+.met-member .input-group-addon{border-color: #ddd;}
+.met-member .user-code-img img{height:31px !important;}
+.met-form-lable{padding-right: 0;}
+.met-form-tips{padding: 10px 0;line-height: 1.8;}
+.met-form .met-upfile .dropify-wrapper{border-width:1px;}
+/*登录界面*/
+.met-login-register .met-form-wrapper{display: table;background-color:rgba(255,255,255,.8);border-radius:20px;}
+.met-login-register .met-form-top{align-items: center;justify-content: space-between;border-bottom-color: #ddd;}
+.met-login-register .login-type,
+.met-login-register .login-type-list,
+.met-login-register .met-login-register-right{align-items: center;}
+.met-login-register .login-type p{margin-bottom: 0;}
+.met-login-register .login-type-list,
+.met-login-register .form-list{justify-content: center}
+.met-login-register .met-login-register-right{border-left: 1px solid #ddd;}
+@media (min-width: 768px) {
+    .met-login-register .met-form{width: 450px;padding: 40px 60px;}
+}
+@media (max-width: 991px) {
+    .met-login-register .form-list{flex-direction: column;align-items: center;}
+    .met-login-register .met-login-register-right{border-left: none;border-top: 1px solid #ddd;}
+}
+@media (max-width: 767px) {
+    .met-login-register .met-form-top{justify-content: center;}
+    .met-login-register .met-form-wrapper{width: 100%;}
+    .met-login-register .form-list{align-items: inherit;}
+    .met-login-register .met-form{max-width: none;padding: 30px 20px;}
+}
+/*注册页面*/
+.register-index .met-more{position:relative;}
+.register-index .met-more span{position:absolute;left:50%;top:3px;-webkit-transform: translateX(-50%);
+   -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+     -o-transform: translateX(-50%);
+        transform: translateX(-50%);}
+.register-index .phonecode-wrapper{position: relative;z-index: 2;}
+.register-index .code-wrapper{position: absolute;left: 0;bottom: 100%;box-shadow: 0 0 20px 10px #ddd;}
+.register-index .code-wrapper::after{content: '';width: 0;height: 0;border: 10px solid transparent;border-top-color:#ccc;position: absolute;right: 70px;top: 100%;}
+@media (min-width: 768px) {
+    .register-index .met-form{width: 550px;max-width: none;}
+    .register-index .met-form-register-collapse .row{display: flex;align-items: center;}
+}
+/*侧栏*/
+.met-sidebar-nav .list-group-item a{color:#76838f;}
+.met-sidebar-nav .list-group-item a:hover{color:#000;text-decoration:none;}
+.met-sidebar-nav .list-group-item.active a{color:#62a8ea;}
+/*邮箱验证*/
+.valid-email-content{margin:0px auto;max-width:800px;background-color:#fff;padding:100px 20px;color:#555;}
+.valid-email .breadcrumb{margin:0px auto;max-width:800px;text-align:center;}
+.valid-email .send-email{margin-right:20px;}
+.valid-email .loading{background:url(../../../../../../public/images/loading1.gif) no-repeat right center;}
+/*短信验证*/
+.phone-code{height:43px;}
+.phone-code .badge{font-weight:normal;color:#fff;}
+/* 手机绑定 */
+/*会员中心*/
+.met-member-index .basic>.row,.met-member-index .para>.row{margin:0;padding:15px 0;border-top:1px solid #ddd;}
+.met-member-index .para>.row{display: flex;align-items: center;}
+@media (max-width: 767px) {
+    .met-member-index .para>.row{flex-direction: column;align-items: inherit;}
+    .met-member-index .para>.row .met-form-lable{margin-bottom: 10px;}
+}
+/*帐号安全*/
+.met-member-safety .media{padding:30px 0px;border-top:1px solid #ddd;position:relative;}
+.met-member-safety .media:first-child{border-top:none;}
+.met-member-safety .media button{}
+.met-member-safety .media i{width:50px;height:40px;text-align:center;font-size:25px;line-height:40px;color:#62a8ea;}
+.met-member-safety .media i.fa-lock{font-size:33px;}
+.met-member-safety .media i.fa-mobile{font-size:48px;}
+.met-member-safety .media .media-body{color:#999;}
+.met-member-safety .media .media-heading{font-size:18px;line-height: 25px;color:#444;}
+.met-member-safety .media .media-heading span{vertical-align: top;}
+/* .member-profile .modal .modal-dialog{margin:0;}
+.member-profile .modal .modal-body{padding:15px 15px 0px;}
+.member-profile .modal .modal-header{border-bottom:1px solid #e4eaec;}
+.member-profile .modal .modal-footer{border-top:1px solid #e4eaec;padding-top:20px;} */
+.member-profile .modal .loading{background:#fff url(../../../../../../public/images/loading1.gif) no-repeat center center;color:#fff;}
