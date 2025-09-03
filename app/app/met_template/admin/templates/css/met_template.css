@@ -1,0 +1,45 @@
+/* 米拓企业建站系统 Copyright (C) 长沙米拓信息技术有限公司 (https://www.metinfo.cn). All rights reserved. */
+.met-template-list .item.active {
+  border-color: #DDD;
+  background: linear-gradient(#FFFFFF 0%, #FCFCFC 100%);
+}
+
+.met-template-list .item .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.58);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.met-template-list .item .img-wrapper{height: 200px;}
+
+.met-template-list .tips p {
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 1px;
+
+}
+
+.met-template-list .buy {
+  text-align: center;
+}
+.met-template-right{
+  right: 15px;
+  top: 12px;
+}
+.met-template-right .user div,
+.met-template-right .user a {
+  padding: 0 10px;
+  line-height: 35px;
+}
+
+@media (min-width: 1600px) {
+  .met-template-list .col-xxl-3 {
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+}
