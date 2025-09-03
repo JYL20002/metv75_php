@@ -1,0 +1,28 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#231;&#179;&#187;&#231;&#187;&#159;&#230;&#181;&#133;&#232;&#137;&#178;&#229;&#155;&#190;&#230;&#160;&#135;/&#231;&#189;&#145;&#231;&#171;&#153;&#230;&#168;&#161;&#230;&#157;&#191;" clip-path="url(#clip0_1296_6721)">
+<g id="Group 16">
+<g id="Rectangle 287" filter="url(#filter0_i_1296_6721)">
+<rect x="0.75" y="0.75" width="18.5" height="18.5" rx="1.25" stroke="#666666" stroke-width="1.5"/>
+</g>
+<rect id="Rectangle 274" x="4" y="5" width="12" height="1.5" rx="0.75" fill="#666666"/>
+<rect id="Rectangle 288" x="7" y="9" width="9" height="1.5" rx="0.75" fill="#666666"/>
+<rect id="Rectangle 289" x="7" y="13" width="9" height="1.5" rx="0.75" fill="#666666"/>
+<rect id="Rectangle 275" x="5.5" y="8" width="7" height="1.5" rx="0.75" transform="rotate(90 5.5 8)" fill="#666666"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_i_1296_6721" x="0" y="0" width="20" height="24" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_1296_6721"/>
+</filter>
+<clipPath id="clip0_1296_6721">
+<rect width="20" height="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>

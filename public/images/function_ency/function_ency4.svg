@@ -1,0 +1,13 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;" clip-path="url(#clip0_1964_31065)">
+<circle id="Ellipse 73" cx="7" cy="5" r="4.25" stroke="#002B99" stroke-width="1.5"/>
+<path id="Rectangle 362" d="M13 18.5V14.5C13 12.8431 11.6569 11.5 10 11.5H4C2.34315 11.5 1 12.8431 1 14.5V18.5" stroke="#002B99" stroke-width="1.5" stroke-linecap="round"/>
+<path id="Ellipse 74" d="M13 9C15.2091 9 17 7.20914 17 5C17 2.79086 15.2091 1 13 1" stroke="#002B99" stroke-width="1.5" stroke-linecap="round"/>
+<path id="Rectangle 363" d="M19 18.5V14.5C19 12.8431 17.6569 11.5 16 11.5H14" stroke="#002B99" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1964_31065">
+<rect width="20" height="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>

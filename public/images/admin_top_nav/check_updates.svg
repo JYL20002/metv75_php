@@ -1,0 +1,22 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#230;&#163;&#128;&#230;&#181;&#139;&#230;&#155;&#180;&#230;&#150;&#176;" clip-path="url(#clip0_1351_8257)">
+<rect id="Rectangle 296" x="8" y="11.5" width="11" height="8" rx="2" fill="url(#paint0_linear_1351_8257)"/>
+<rect id="Rectangle 293" x="1" y="8" width="18" height="11" rx="1" stroke="#333333" stroke-width="2"/>
+<rect id="Rectangle 298" x="2.5" y="4" width="15" height="1" rx="0.5" stroke="#333333"/>
+<rect id="Rectangle 299" x="5.5" y="1" width="9" height="1" rx="0.5" stroke="#333333"/>
+<g id="&#231;&#174;&#173;&#229;&#164;&#180;">
+<rect id="Rectangle 225" width="4.3075" height="1.54681" rx="0.773405" transform="matrix(0.707107 -0.707107 -0.707107 -0.707107 7.98818 13.999)" fill="#333333"/>
+<rect id="Rectangle 226" x="11.9062" y="14" width="4.29781" height="1.54681" rx="0.773405" transform="rotate(-135 11.9062 14)" fill="#333333"/>
+<rect id="Rectangle 300" x="10.7614" y="10.2393" width="6" height="1.54681" rx="0.773405" transform="rotate(90 10.7614 10.2393)" fill="#333333"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1351_8257" x1="13.5" y1="11.5" x2="13.5" y2="19.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EAF9FF"/>
+<stop offset="1" stop-color="#14BFFF"/>
+</linearGradient>
+<clipPath id="clip0_1351_8257">
+<rect width="20" height="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>

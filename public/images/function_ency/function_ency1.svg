@@ -1,0 +1,12 @@
+<svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;" clip-path="url(#clip0_1963_31029)">
+<path id="Polygon 14" d="M9.88029 1.41961C9.95491 1.37891 10.0451 1.37891 10.1197 1.41961L19.0314 6.28053C19.2051 6.37528 19.2051 6.62472 19.0314 6.71947L10.1197 11.5804C10.0451 11.6211 9.95491 11.6211 9.88029 11.5804L0.968614 6.71947C0.794898 6.62472 0.794898 6.37528 0.968614 6.28053L9.88029 1.41961Z" fill="white" stroke="#0086E7" stroke-width="1.5"/>
+<path id="Polygon 15" d="M19 10.5L10.5145 15.5913C10.1978 15.7813 9.80219 15.7813 9.4855 15.5913L1 10.5" stroke="#0086E7" stroke-width="1.5" stroke-linecap="round"/>
+<path id="Polygon 16" d="M19 14.5L10.5145 19.5913C10.1978 19.7813 9.80219 19.7813 9.4855 19.5913L1 14.5" stroke="#0086E7" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1963_31029">
+<rect width="20" height="20" fill="white" transform="translate(0 0.5)"/>
+</clipPath>
+</defs>
+</svg>

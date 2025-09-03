@@ -1,0 +1,21 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#231;&#179;&#187;&#231;&#187;&#159;&#230;&#181;&#133;&#232;&#137;&#178;&#229;&#155;&#190;&#230;&#160;&#135;/&#229;&#186;&#148;&#231;&#148;&#168;&#230;&#143;&#146;&#228;&#187;&#182;&#233;&#128;&#137;&#228;&#184;&#173;" clip-path="url(#clip0_1305_6191)">
+<g id="Group 17">
+<path id="Polygon 5" d="M8 0.57735C8.6188 0.220085 9.3812 0.220085 10 0.57735L16.6603 4.42265C17.2791 4.77992 17.6603 5.44017 17.6603 6.1547V13.8453C17.6603 14.5598 17.2791 15.2201 16.6603 15.5774L10 19.4226C9.3812 19.7799 8.6188 19.7799 8 19.4226L1.33975 15.5774C0.720943 15.2201 0.339746 14.5598 0.339746 13.8453V6.1547C0.339746 5.44017 0.720943 4.77992 1.33975 4.42265L8 0.57735Z" fill="url(#paint0_linear_1305_6191)"/>
+<g id="Group 22">
+<rect id="Rectangle 281" x="7.94977" y="11.0098" width="7" height="1.5" rx="0.75" transform="rotate(-45 7.94977 11.0098)" fill="white"/>
+<rect id="Rectangle 282" x="8.94977" y="12.0098" width="7" height="1.5" rx="0.75" transform="rotate(-135 8.94977 12.0098)" fill="white"/>
+<rect id="Rectangle 283" x="8.34979" y="17.0098" width="7" height="1.5" rx="0.75" transform="rotate(-90 8.34979 17.0098)" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1305_6191" x1="9" y1="0" x2="9" y2="20" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9AE3FF"/>
+<stop offset="1" stop-color="#31C6FF"/>
+</linearGradient>
+<clipPath id="clip0_1305_6191">
+<rect width="20" height="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>

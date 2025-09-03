@@ -1,0 +1,20 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#231;&#179;&#187;&#231;&#187;&#159;&#230;&#181;&#133;&#232;&#137;&#178;&#229;&#155;&#190;&#230;&#160;&#135;/&#231;&#189;&#145;&#231;&#171;&#153;&#230;&#168;&#161;&#230;&#157;&#191;&#233;&#128;&#137;&#228;&#184;&#173;" clip-path="url(#clip0_1305_6181)">
+<g id="Group 16">
+<path id="Rectangle 230" d="M0 2C0 0.895431 0.895431 0 2 0H18C19.1046 0 20 0.895431 20 2V18C20 19.1046 19.1046 20 18 20H2C0.895431 20 0 19.1046 0 18V2Z" fill="url(#paint0_linear_1305_6181)"/>
+<rect id="Rectangle 290" x="4" y="5" width="12" height="1.5" rx="0.75" fill="white"/>
+<rect id="Rectangle 288" x="7" y="9" width="9" height="1.5" rx="0.75" fill="white"/>
+<rect id="Rectangle 289" x="7" y="13" width="9" height="1.5" rx="0.75" fill="white"/>
+<rect id="Rectangle 291" x="5.5" y="8" width="7" height="1.5" rx="0.75" transform="rotate(90 5.5 8)" fill="white"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1305_6181" x1="10" y1="0" x2="10" y2="20" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9AE3FF"/>
+<stop offset="1" stop-color="#31C6FF"/>
+</linearGradient>
+<clipPath id="clip0_1305_6181">
+<rect width="20" height="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>
