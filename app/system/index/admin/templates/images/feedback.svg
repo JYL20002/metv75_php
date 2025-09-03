@@ -1,0 +1,20 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#229;&#155;&#190;&#230;&#160;&#135;/&#230;&#149;&#176;&#230;&#141;&#174;-&#229;&#143;&#141;&#233;&#166;&#136;" clip-path="url(#clip0_1328_12259)">
+<rect id="Rectangle 314" x="1.5" y="1.5" width="37" height="37" rx="4.5" stroke="#FF7438" stroke-width="3"/>
+<rect id="Rectangle 312" x="-0.5" y="-0.5" width="2" height="9" rx="1" transform="matrix(0 -1 -1 0 15 10)" fill="#FF7438" stroke="#FF7438"/>
+<rect id="Rectangle 313" x="6.5" y="16.5" width="2" height="10" rx="1" transform="rotate(-90 6.5 16.5)" fill="#FF7438" stroke="#FF7438"/>
+<rect id="Rectangle 321" x="6.5" y="22.5" width="2" height="10" rx="1" transform="rotate(-90 6.5 22.5)" fill="#FF7438" stroke="#FF7438"/>
+<g id="Rectangle 320">
+<mask id="path-5-inside-1_1328_12259" fill="white">
+<path d="M22.5 9C22.5 7.34315 23.8431 6 25.5 6H30.5C32.1569 6 33.5 7.34315 33.5 9V25C33.5 25.5523 33.0523 26 32.5 26H23.5C22.9477 26 22.5 25.5523 22.5 25V9Z"/>
+</mask>
+<path d="M22.5 9C22.5 7.34315 23.8431 6 25.5 6H30.5C32.1569 6 33.5 7.34315 33.5 9V25C33.5 25.5523 33.0523 26 32.5 26H23.5C22.9477 26 22.5 25.5523 22.5 25V9Z" stroke="#FF7438" stroke-width="6" mask="url(#path-5-inside-1_1328_12259)"/>
+</g>
+<path id="Polygon 10" d="M27.567 31.25C27.7594 31.5833 28.2406 31.5833 28.433 31.25L31.8971 25.25C32.0896 24.9167 31.849 24.5 31.4641 24.5H24.5359C24.151 24.5 23.9104 24.9167 24.1029 25.25L27.567 31.25Z" stroke="#FF7438" stroke-width="3"/>
+</g>
+<defs>
+<clipPath id="clip0_1328_12259">
+<rect width="40" height="40" fill="white"/>
+</clipPath>
+</defs>
+</svg>

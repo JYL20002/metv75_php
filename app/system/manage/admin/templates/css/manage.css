@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* 米拓企业建站系统 Copyright (C) 长沙米拓信息技术有限公司 (https://www.metinfo.cn). All rights reserved. */
+.btn-column-control{padding: 5px 8px !important;top: 80px;margin-left: -32px;transform: translate(100%,4px);z-index: 1;}
+.btn-column-control.min{transform: translate(0,4px);margin-left: -24px;padding: 5px 4px !important;}
+.column-view-wrapper{width: calc(200px + 1.5rem);top: 20px;}
+.modal-body .column-view-wrapper{top: 0;}
+.column-view-list .subcolumn{display: none;}
+.column-view-list .list-group-item{background: none;padding-top: 10px;padding-bottom: 10px;}
+.column-view-list>li a{color: #666;}
+.column-view-list .list-group-item:hover,
+.column-view-list .list-group-item.active{color: #29A0CD;background: #E0F6FF;}
+.column-view-list .list-group-item.active{font-weight: bold;}
+.column-view-wrapper.min{width: 0;}
+.column-view-wrapper.min .column-view{margin-left: calc(-200px - 1.5rem);}
+.content-show{width: calc(100% - 200px - 1.5rem)}
+.column-view-wrapper.min .content-show{width: 100%}
+.column-search-icon{right: 7px;top: 8px;z-index: 4;cursor: pointer;color: #a3a3a3;}
+.content-btn-group button{background: #F4F4F4;color: #999;padding: 2px 7px !important;}
+.content-btn-group button.active,
+.content-btn-group button:hover{background: #E0F6FF;color: #29A0CD;}
+
+.default_show_column-wrapper{max-width: 120px;}
+.default_show_column-wrapper .dropdown .btn{font-size: 12px;height: 40px;}
+@media (min-height:650px){
+    .column-view-wrapper{top: 80px;}
+}
