@@ -1,0 +1,15 @@
+<svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#230;&#149;&#176;&#230;&#141;&#174;&#229;&#186;&#147;">
+<rect id="Rectangle 193" x="0.5" width="20" height="20" rx="2" fill="url(#paint0_linear_1822_2849)"/>
+<ellipse id="Ellipse 44" cx="4.88028" cy="3" rx="0.995023" ry="1" fill="#48C0EE"/>
+<ellipse id="Ellipse 45" cx="4.88028" cy="10" rx="0.995023" ry="1" fill="#48C0EE"/>
+<path id="Rectangle 200" d="M0.5 13H20.5V18C20.5 19.1046 19.6046 20 18.5 20H2.5C1.39543 20 0.5 19.1046 0.5 18V13Z" fill="#CEF1FF"/>
+<ellipse id="Ellipse 46" cx="4.88028" cy="17" rx="0.995023" ry="1" fill="#48C0EE"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1822_2849" x1="10.5" y1="0" x2="10.5" y2="20" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="0.61" stop-color="#66D4FF"/>
+</linearGradient>
+</defs>
+</svg>
